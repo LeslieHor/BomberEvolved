@@ -1,0 +1,6 @@
+- Join pieces together with weak forces that collapse with enough force
+- Comment the code
+- Use a similarity calculation to promote diversity
+- Optimise the building, so it isn't destroying and creating the same object over and over again
+- Implement foundation structures. Can only be placed on the ground, and structure objects can only be on foundation
+- Fix savegames to store rotation too
